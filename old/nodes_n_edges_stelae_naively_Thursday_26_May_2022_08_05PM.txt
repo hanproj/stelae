@@ -1,0 +1,3 @@
+# A network in Pajek format
+*Vertices in 0
+*Edges 0.0
