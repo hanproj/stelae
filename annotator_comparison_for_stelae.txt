@@ -1,82 +1,90 @@
+#Rhymes = 57
+	Mou2008.060	N≠S (11)	N≠C (46)	S≠C	57
+#Rhymes = 49
+	Mou2008.133	N≠S (20)	N≠C (53)	S≠C	49
+#Rhymes = 45
+	Mou2008.067	N≠S (27)	N≠C (42)	S≠C	45
 #Rhymes = 31
-	Mou2008.064	N≠S (13)	N≠C (35)	S≠C	31
+	Mou2008.064	N≠S (13)	N≠C (16)	S≠C	31
+#Rhymes = 28
+	Mou2008.045	N≠S (11)	N≠C (14)	S≠C	28
 #Rhymes = 27
-	Mou2008.089	N≠S (15)	N≠C (41)	S≠C	27
+	Mou2008.089	N≠S (15)	N≠C (37)	S≠C	27
 #Rhymes = 25
-	Mou2008.080	N≠S (8)	N≠C (52)	S≠C	25
+	Mou2008.080	N≠S (8)	N≠C (20)	S≠C	25
 #Rhymes = 22
-	Mou2008.100	N≠S (14)	N≠C (59)	S≠C	22
+	Mou2008.100	N≠S (14)	N≠C (18)	S≠C	22
 #Rhymes = 21
-	Mou2008.109	N≠S (33)	N≠C (52)	S≠C	21
+	Mou2008.109	N≠S (33)	N≠C (29)	S≠C	21
 #Rhymes = 20
 	Mou2008.096	N≠S (15)	N≠C (30)	S≠C	20
 #Rhymes = 19
-	Mou2008.145	N≠S (21)	N≠C (42)	S≠C	19
+	Mou2008.145	N≠S (21)	N≠C (37)	S≠C	19
 #Rhymes = 17
-	Mou2008.088	N≠S (12)	N≠C (53)	S≠C	17
-	Mou2008.105	N≠S (12)	N≠C (47)	S≠C	17
-	Mou2008.138	N≠S (24)	N≠C (65)	S≠C	17
+	Mou2008.088	N≠S (12)	N≠C (35)	S≠C	17
+	Mou2008.105	N≠S (18)	N≠C (24)	S≠C	17
+	Mou2008.138	N≠S (24)	N≠C (35)	S≠C	17
 #Rhymes = 16
 	Mou2008.030	N≠S (25)	N≠C (19)	S≠C	16
-	Mou2008.034	N≠S (12)	N≠C (44)	S≠C	16
-	Mou2008.092	N≠S (62)	N≠C (94)	S≠C	16
-	Mou2008.111	N≠S (25)	N≠C (25)	S≠C	16
+	Mou2008.034	N≠S (12)	N≠C (19)	S≠C	16
+	Mou2008.092	N≠S (62)	N≠C (38)	S≠C	16
+	Mou2008.111	N≠S (25)	N≠C (12)	S≠C	16
 	Mou2008.144	N≠S (56)	N≠C (38)	S≠C	16
 #Rhymes = 15
-	Mou2008.106	N≠S (20)	N≠C (40)	S≠C	15
+	Mou2008.106	N≠S (20)	N≠C (27)	S≠C	15
 #Rhymes = 14
 	Mou2008.082	N≠S (36)	N≠C (71)	S≠C	14
-	Mou2008.091	N≠S (29)	N≠C (57)	S≠C	14
-	Mou2008.124	N≠S (29)	N≠C (29)	S≠C	14
+	Mou2008.091	N≠S (29)	N≠C (36)	S≠C	14
+	Mou2008.124	N≠S (29)	N≠C (21)	S≠C	14
 #Rhymes = 13
-	Mou2008.139	N≠S (23)	N=C	S≠C	13
+	Mou2008.139	N≠S (23)	N≠C (38)	S≠C	13
 #Rhymes = 12
-	Mou2008.097	N≠S (17)	N≠C (58)	S≠C	12
-	Mou2008.099	N≠S (17)	N≠C (25)	S≠C	12
-	Mou2008.107	N≠S (33)	N≠C (58)	S≠C	12
-	Mou2008.114	N≠S (25)	N≠C (67)	S≠C	12
-	Mou2008.116	N≠S (42)	N≠C (50)	S≠C	12
+	Mou2008.097	N≠S (17)	N≠C (25)	S≠C	12
+	Mou2008.099	N≠S (17)	N≠C (17)	S≠C	12
+	Mou2008.107	N≠S (33)	N≠C (42)	S≠C	12
+	Mou2008.114	N≠S (25)	N≠C (42)	S≠C	12
+	Mou2008.116	N≠S (42)	N≠C (42)	S≠C	12
 #Rhymes = 11
 	Mou2008.102	N≠S (18)	N≠C (27)	S≠C	11
-	Mou2008.113	N≠S (27)	N≠C (36)	S≠C	11
-	Mou2008.135	N≠S (36)	N≠C (73)	S≠C	11
+	Mou2008.113	N≠S (27)	N≠C (18)	S≠C	11
+	Mou2008.135	N≠S (36)	N≠C (45)	S≠C	11
 #Rhymes = 10
-	Mou2008.051	N≠S (10)	N≠C (40)	S≠C	10
-	Mou2008.122	N≠S (40)	N≠C (70)	S≠C	10
-	Mou2008.140	N≠S (40)	N≠C (70)	S≠C	10
-	Mou2008.142	N≠S (60)	N≠C (90)	S≠C	10
-	Mou2008.147	N≠S (30)	N≠C (30)	S≠C	10
+	Mou2008.051	N≠S (10)	N≠C (20)	S≠C	10
+	Mou2008.122	N≠S (40)	N≠C (80)	S≠C	10
+	Mou2008.140	N≠S (40)	N≠C (20)	S≠C	10
+	Mou2008.142	N≠S (60)	N≠C (50)	S≠C	10
+	Mou2008.147	N≠S (30)	N≠C (10)	S≠C	10
 #Rhymes = 9
-	Mou2008.044	N≠S (33)	N≠C (56)	S≠C	9
+	Mou2008.044	N≠S (33)	N≠C (44)	S≠C	9
 	Mou2008.077	N≠S (11)	N≠C (22)	S≠C	9
-	Mou2008.094	N≠S (22)	N≠C (44)	S≠C	9
+	Mou2008.094	N≠S (22)	N≠C (22)	S≠C	9
 	Mou2008.118	N≠S (44)	N≠C (22)	S≠C	9
-	Mou2008.128	N≠S (44)	N≠C (44)	S≠C	9
-	Mou2008.136	N≠S (22)	N≠C (67)	S≠C	9
+	Mou2008.128	N≠S (44)	N≠C (33)	S≠C	9
+	Mou2008.136	N≠S (22)	N≠C (44)	S≠C	9
 #Rhymes = 8
-	Mou2008.090	N≠S (25)	N≠C (88)	S≠C	8
+	Mou2008.090	N≠S (25)	N≠C (62)	S≠C	8
 	Mou2008.131	N≠S (38)	N≠C (50)	S≠C	8
 #Rhymes = 7
 	Mou2008.069	N≠S (14)	N≠C (29)	S≠C	7
 	Mou2008.108	N≠S (14)	N≠C (29)	S≠C	7
-	Mou2008.120	N≠S (29)	N≠C (43)	S≠C	7
+	Mou2008.120	N≠S (29)	N≠C (71)	S≠C	7
 	Mou2008.121	N≠S (14)	N≠C (43)	S≠C	7
 	Mou2008.137	N≠S (29)	N≠C (29)	S≠C	7
 #Rhymes = 6
 	Mou2008.058	N≠S (50)	N≠C (17)	S≠C	6
 	Mou2008.141	N=S	N≠C (83)	S≠C	6
-	Mou2008.143	N≠S (67)	N≠C (50)	S≠C	6
+	Mou2008.143	N≠S (67)	N≠C (33)	S≠C	6
 #Rhymes = 5
-	Mou2008.104	N≠S (40)	N≠C (80)	S≠C	5
-	Mou2008.167	N≠S (20)	N≠C (40)	S≠C	5
+	Mou2008.104	N≠S (40)	N≠C (40)	S≠C	5
+	Mou2008.167	N≠S (20)	N≠C (20)	S=C	5
 #Rhymes = 4
-	Mou2008.101	N≠S (50)	N≠C (75)	S≠C	4
+	Mou2008.101	N≠S (50)	N≠C (25)	S≠C	4
 	Mou2008.110	N≠S (50)	N≠C (50)	S≠C	4
-	Mou2008.150	N≠S (50)	N=C	S≠C	4
-	Mou2008.159	N≠S (25)	N=C	S≠C	4
+	Mou2008.150	N≠S (50)	N≠C (75)	S≠C	4
+	Mou2008.159	N≠S (25)	N≠C (50)	S≠C	4
 #Rhymes = 3
 	Mou2008.087	N≠S (33)	N≠C (33)	S=C	3
 	Mou2008.127	N≠S (33)	N≠C (67)	S≠C	3
-	Mou2008.149	N≠S (33)	N≠C (33)	S=C	3
+	Mou2008.149	N≠S (33)	N≠C (67)	S≠C	3
 #Rhymes = 2
 	Mou2008.086	N≠S (50)	N≠C (50)	S=C	2
